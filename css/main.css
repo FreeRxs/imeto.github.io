@@ -86,9 +86,9 @@
 		height: 100%;
 		background-color: #ffffff;
 		background-image: url(""), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://ww1.sinaimg.cn/large/005UYuA2gy1fw87vep3vkj31hc0u0tv7.jpg");
-		background-image: url(""), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://ww1.sinaimg.cn/large/005UYuA2gy1fw87vep3vkj31hc0u0tv7.jpg");
-		background-image: url(""), -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://ww1.sinaimg.cn/large/005UYuA2gy1fw87vep3vkj31hc0u0tv7.jpg");
-		background-image: url(""), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://ww1.sinaimg.cn/large/005UYuA2gy1fw87vep3vkj31hc0u0tv7.jpg");
+		background-image: url(""), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://www.mom1.cn/wp-content/uploads/2017/10/59e02fbf27f3f.jpg");
+		background-image: url(""), -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://www.mom1.cn/wp-content/uploads/2017/10/59e02fb3364c7.jpg");
+		background-image: url(""), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://www.mom1.cn/wp-content/uploads/2017/10/59e02faf9a49d.jpg");
 		background-repeat: repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom centr;
